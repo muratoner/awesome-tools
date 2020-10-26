@@ -1,5 +1,4 @@
 ![enter image description here](https://www.escr-net.org/sites/default/files/dev_toolkit_logo-02.png)
-
 # Development
 ## Editor
 ### https://sourcegraph.com/ - Github repository code editor and helper ![enter image description here](https://img.shields.io/static/v1?label=Best&message=Github%20Repository%20Toolkit&color=brightgreen)
@@ -15,6 +14,12 @@
 ## Editor
 ### https://www.iloveimg.com/photo-editor
 ### http://photopea.com/ ![enter image description here](https://img.shields.io/static/v1?label=Best&message=Editor&color=brightgreen)
+# Organizer
+## Bookmark
+### https://raindrop.io/ ![enter image description here](https://img.shields.io/static/v1?label=Best&message=Bookmark%20Manager%20Tool&color=brightgreen)
+# Security
+## Password Manager
+### LastPass ![enter image description here](https://img.shields.io/static/v1?label=Best&message=Password%20Manager%20Tool&color=brightgreen)
 # Text Editor
 ## Markdown
 ### https://stackedit.io/ ![enter image description here](https://img.shields.io/static/v1?label=Best&message=Markdown%20Editor&color=brightgreen)
