@@ -1,5 +1,8 @@
 ![enter image description here](https://www.escr-net.org/sites/default/files/dev_toolkit_logo-02.png)
 # Development
+## Remove Duplicate Lines
+- https://www.textfixer.com/tools/remove-duplicate-lines.php - Quickly paste text from a file into the form below to remove all duplicate lines from your text.
+- http://www.mynikko.com/tools/tool_duplicateremover.html - Quickly paste text from a file into the form below to remove all duplicate lines from your text.
 ## Code Snippets
 - https://1loc.dev/ - Favorite JavaScript Utilities in single line of code! No more!
 ## Editor
