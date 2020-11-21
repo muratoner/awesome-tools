@@ -23,8 +23,10 @@
 - http://photopea.com/ ![enter image description here](https://img.shields.io/static/v1?label=Best&message=Editor&color=brightgreen)
 ## Images
 - https://www.cleanpng.com/ - Upload & discover png files without a hitch!
-- https://icons8.com/ - FREE ICONS, PHOTOS, VECTORS, MUSIC, AND TOOLS
+- https://icons8.com/ - FREE ICONS, PHOTOS, VECTORS, MUSIC, AND TOOLS.
 - https://www.iconfinder.com/ - free and premium svg, png, csh etc. image search engine.
+- https://www.flaticon.com/ - The largest database of free icons available in PNG, SVG, EPS, PSD and BASE 64 formats.
+- https://www.transparenttextures.com/ - Transparent textures.
 # Organizer
 ## Bookmark
 - https://raindrop.io/ ![enter image description here](https://img.shields.io/static/v1?label=Best&message=Bookmark%20Manager%20Tool&color=brightgreen)
