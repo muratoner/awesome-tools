@@ -7,6 +7,7 @@
 ## Color
 - https://www.colorsandfonts.com/ - COLOR & TYPOGRAPHY TOOLS FOR WEB DEVELOPERS AND DIGITAL DESIGNERS
 - https://colorhunt.co/ - Color Palettes for Designers and Artists
+- https://coolors.co/ - The super fast color schemes generator! Create the perfect palette or get inspired by thousands of beautiful color schemes.
 ## CSS Grid
 - https://cssgr.id/ - An interactive CSS Grid tool and generator
 # Image
