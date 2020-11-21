@@ -1,5 +1,7 @@
 ![enter image description here](https://www.escr-net.org/sites/default/files/dev_toolkit_logo-02.png)
 # Development
+## Diff text
+- https://mergely.com/ - Mergely is an online web application for viewing and merging changes between documents online.  It is a pure-Javascript library that can be used to enhance your online CMS system.  Mergely is open source and also available for commercial use.
 ## Remove Duplicate Lines
 - https://www.textfixer.com/tools/remove-duplicate-lines.php - Quickly paste text from a file into the form below to remove all duplicate lines from your text.
 - http://www.mynikko.com/tools/tool_duplicateremover.html - Quickly paste text from a file into the form below to remove all duplicate lines from your text.
