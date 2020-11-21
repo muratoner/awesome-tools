@@ -1,5 +1,7 @@
 ![enter image description here](https://www.escr-net.org/sites/default/files/dev_toolkit_logo-02.png)
 # Development
+## Code Snippets
+https://1loc.dev/ - Favorite JavaScript Utilities in single line of code! No more!
 ## Editor
 ### https://sourcegraph.com/ - Github repository code editor and helper ![enter image description here](https://img.shields.io/static/v1?label=Best&message=Github%20Repository%20Toolkit&color=brightgreen)
 # Image
