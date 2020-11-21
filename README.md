@@ -4,7 +4,7 @@
 - https://1loc.dev/ - Favorite JavaScript Utilities in single line of code! No more!
 ## Editor
 - https://sourcegraph.com/ - Github repository code editor and helper ![enter image description here](https://img.shields.io/static/v1?label=Best&message=Github%20Repository%20Toolkit&color=brightgreen)
-## CSS Grid Tools
+## CSS Grid
 - https://cssgr.id/ - An interactive CSS Grid tool and generator
 # Image
 ## Base64 Converter
