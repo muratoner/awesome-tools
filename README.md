@@ -1,5 +1,7 @@
 ![enter image description here](https://www.escr-net.org/sites/default/files/dev_toolkit_logo-02.png)
 # Development
+## Automated Systems
+- https://codebeat.co/ - Automated code review for mobile and web.
 ## Diff text
 - https://mergely.com/ - Mergely is an online web application for viewing and merging changes between documents online.  It is a pure-Javascript library that can be used to enhance your online CMS system.  Mergely is open source and also available for commercial use.
 ## Remove Duplicate Lines
