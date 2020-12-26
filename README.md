@@ -15,6 +15,8 @@
 - https://coolors.co/ - The super fast color schemes generator! Create the perfect palette or get inspired by thousands of beautiful color schemes.
 ## CSS Grid
 - https://cssgr.id/ - An interactive CSS Grid tool and generator
+## Icon Fonts Generator
+- https://fontello.com/ - This tool lets you combine icon webfonts for your own project.
 ## Public APIs
 - https://publicapis.sznm.dev/ - Find some public APIs for your next projects
 # Image
