@@ -15,10 +15,26 @@
 - https://coolors.co/ - The super fast color schemes generator! Create the perfect palette or get inspired by thousands of beautiful color schemes.
 ## CSS Grid
 - https://cssgr.id/ - An interactive CSS Grid tool and generator
-## Icon Fonts Generator
+## Icon Fonts
 - https://fontello.com/ - This tool lets you combine icon webfonts for your own project.
+- [icongr.am](https://icongr.am) - With icongram you can easily use icons from popular icon sets on the fly.
+## Host & Domain
+- [introDNS](https://intodns.com/) - IntoDNS checks the health and configuration and provides DNS report and mail servers report.
+And provides suggestions to fix and improve them, with references to protocols’ official documentation.
+- [Simpe DNS Plus](http://simpledns.com) - This function will trace the DNS delegation for a domain name from the Internet DNS root servers down to the DNS servers responsible (authoritative) for the domain. This can be useful to find out if a domain is delegated correctly.
 ## Public APIs
 - https://publicapis.sznm.dev/ - Find some public APIs for your next projects
+# Playgrounds
+- [StackBlitz](https://stackblitz.com/) - Online VS Code IDE for Angular & React.
+- [repl.it](https://repl.it) - Is to make programming more accessible. We build powerful yet simple tools and platforms for educators, learners, and developers.
+- [CodeSandbox](https://codesandbox.io/) - CodeSandbox is an online editor that helps you create web applications, from prototype to deployment.
+## Performance Test
+- [pingdom](https://tools.pingdom.com/) - Test the load time of that page, analyze it and find bottlenecks.
+- [GTmetrix](https://gtmetrix.com/) - Analyze your site’s speed and make it faster. GTmetrix gives you insight on how well your site loads and provides actionable recommendations on how to optimize it.
+## Tutorials
+- http://cssreference.io/ - Learn by example: cssreference.io is a free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.
+- https://javascript.info/ - The Modern JavaScript Tutorial, How it's done now. From the basics to advanced topics with simple, but detailed explanations.
+- https://flexboxfroggy.com/ - Flexbox Froggy, a game where you help Froggy and friends by writing CSS code!
 # Image
 ## Base64 Converter
 - https://www.base64-image.de/ ![enter image description here](https://img.shields.io/static/v1?label=Best&message=Base64%20Converter&color=brightgreen)
@@ -29,6 +45,7 @@
 - https://tinypng.com/
 - https://compresspng.com/
 ## Editor
+- https://vectr.com/ - Vectr is a free graphics software used to create vector graphics easily and intuitively. It's a simple yet powerful web and desktop cross-platform tool to bring your designs into reality.
 - https://www.iloveimg.com/photo-editor
 - http://photopea.com/ ![enter image description here](https://img.shields.io/static/v1?label=Best&message=Editor&color=brightgreen)
 ## Images
