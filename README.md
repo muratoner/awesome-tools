@@ -2,6 +2,8 @@
 # Development
 ## Automated Systems
 - https://codebeat.co/ - Automated code review for mobile and web.
+- https://sonarcloud.io/ - Automatic Code Review, Testing, Inspection & Auditing
+- https://www.codefactor.io/ - Automated Code Review for C#, C++, Java, CSS, JS, Go, Python, Ruby, TypeScript, Scala, CoffeeScript, Groovy, C, PHP, Dockerfile, Shell, YAML, Vue, HTML, Swift, Kotlin, PowerShell, Dart and R source code.
 ## Diff text
 - https://mergely.com/ - Mergely is an online web application for viewing and merging changes between documents online.  It is a pure-Javascript library that can be used to enhance your online CMS system.  Mergely is open source and also available for commercial use.
 ## Remove Duplicate Lines
