@@ -15,6 +15,8 @@
 - https://coolors.co/ - The super fast color schemes generator! Create the perfect palette or get inspired by thousands of beautiful color schemes.
 ## CSS Grid
 - https://cssgr.id/ - An interactive CSS Grid tool and generator
+## Public APIs
+- https://publicapis.sznm.dev/ - Find some public APIs for your next projects
 # Image
 ## Base64 Converter
 - https://www.base64-image.de/ ![enter image description here](https://img.shields.io/static/v1?label=Best&message=Base64%20Converter&color=brightgreen)
