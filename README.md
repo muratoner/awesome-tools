@@ -9,6 +9,8 @@
 - https://www.codefactor.io/ - Automated Code Review for C#, C++, Java, CSS, JS, Go, Python, Ruby, TypeScript, Scala, CoffeeScript, Groovy, C, PHP, Dockerfile, Shell, YAML, Vue, HTML, Swift, Kotlin, PowerShell, Dart and R source code.
 ## Diff text
 - https://mergely.com/ - Mergely is an online web application for viewing and merging changes between documents online.  It is a pure-Javascript library that can be used to enhance your online CMS system.  Mergely is open source and also available for commercial use.
+## Documents
+- https://devdocs.io/ - DevDocs combines multiple API documentations in a fast, organized, and searchable interface.
 ## Remove Duplicate Lines
 - https://www.textfixer.com/tools/remove-duplicate-lines.php - Quickly paste text from a file into the form below to remove all duplicate lines from your text.
 - http://www.mynikko.com/tools/tool_duplicateremover.html - Quickly paste text from a file into the form below to remove all duplicate lines from your text.
@@ -57,12 +59,13 @@ And provides suggestions to fix and improve them, with references to protocolsâ€
 - https://vectr.com/ - Vectr is a free graphics software used to create vector graphics easily and intuitively. It's a simple yet powerful web and desktop cross-platform tool to bring your designs into reality.
 - https://www.iloveimg.com/photo-editor
 - http://photopea.com/ ![enter image description here](https://img.shields.io/static/v1?label=Best&message=Editor&color=brightgreen)
-## Images
+## Image Find Services
 - https://www.cleanpng.com/ - Upload & discover png files without a hitch!
 - https://icons8.com/ - FREE ICONS, PHOTOS, VECTORS, MUSIC, AND TOOLS.
 - https://www.iconfinder.com/ - free and premium svg, png, csh etc. image search engine.
 - https://www.flaticon.com/ - The largest database of free icons available in PNG, SVG, EPS, PSD and BASE 64 formats.
 - https://www.transparenttextures.com/ - Transparent textures.
+- https://www.freepik.com/ - Find Free Vectors, Stock Photos and PSD
 # Organizer
 ## Bookmark
 - https://raindrop.io/ ![enter image description here](https://img.shields.io/static/v1?label=Best&message=Bookmark%20Manager%20Tool&color=brightgreen)
