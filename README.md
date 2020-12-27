@@ -42,6 +42,8 @@ And provides suggestions to fix and improve them, with references to protocolsâ€
 - http://cssreference.io/ - Learn by example: cssreference.io is a free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.
 - https://javascript.info/ - The Modern JavaScript Tutorial, How it's done now. From the basics to advanced topics with simple, but detailed explanations.
 - https://flexboxfroggy.com/ - Flexbox Froggy, a game where you help Froggy and friends by writing CSS code!
+## Utils
+- https://www.toptal.com/developers/gitignore - .gitignore.io is a web service designed to help you create .gitignore files for your Git repositories. The site has a graphical and command line method of creating a .gitignore for your operating system, programming language, or IDE.
 # Image
 ## Base64 Converter
 - https://www.base64-image.de/ ![enter image description here](https://img.shields.io/static/v1?label=Best&message=Base64%20Converter&color=brightgreen)
